@@ -1,5 +1,5 @@
 # Local-business-directory
-This the my final year project
+
 The Local Business Directory is a web platform built using XAMPP, PHP, HTML, and CSS, facilitating easy discovery and engagement with local businesses through advanced search functionalities and detailed business listings with accurate operating hours. It prioritizes user-friendly navigation and regular data updates to ensure reliability and accessibility for users.
 
 Setup Instructions
